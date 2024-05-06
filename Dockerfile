@@ -12,4 +12,4 @@ EXPOSE 8089
 
 
 # Define the command to run your Spring Boot application
-CMD ["java", "-jar", "Pi_Spring-0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "Pi_Spring-0.0.1-SNAPSHOT.jar"]ded
